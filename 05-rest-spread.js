@@ -24,7 +24,7 @@ function solution(json1 = { name: "Mr. Michi", food: "Pescado" }, json2 = { age:
     return { ...json1, ...json2 }
   }
 
-//rest -> empaqueta
+//rest function -> empaqueta
 
 function sum(num, ...values) {
     console.log(values);
