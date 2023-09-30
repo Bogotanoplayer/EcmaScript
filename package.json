@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Juan Castro <juancastpro34@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
