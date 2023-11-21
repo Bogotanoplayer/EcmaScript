@@ -23,3 +23,13 @@ const itO = iterate({
 console.log(itO.next().value);
 console.log(itO.next().value);
 console.log(itO.next().value);
+
+function* walas(Michi){
+    let i = 1
+    while (i=1){
+        i++
+        console.log(`${Michi} tu id es : ${i}`);
+    }
+}
+
+console.log(walas("sam"));
